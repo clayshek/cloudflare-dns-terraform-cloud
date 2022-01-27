@@ -3,6 +3,8 @@
 ## Overview
 Terraform config template for Cloudflare DNS, with [Terraform Cloud](https://cloud.hashicorp.com/products/terraform) integration via [GitHub Actions](https://github.com/features/actions).
 
+https://blog.clayshekleton.com/Cloudflare-DNS-TF-Cloud-GitHub-Actions/
+
 ## Prerequisites
 * A [Cloudflare](https://www.cloudflare.com/plans/#overview) hosted DNS zone (free plan is fine)
 * [Terraform Cloud](https://cloud.hashicorp.com/products/terraform) Organization account (free plan is fine)
